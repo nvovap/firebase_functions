@@ -1,0 +1,9 @@
+{
+  "name": "child-count-functions",
+  "description": "Count Child nodes Firebase Functions sample",
+  "dependencies": {
+    "firebase-admin": "~5.2.1",
+    "firebase-functions": "^0.6.2"
+  },
+  "private": true
+}
